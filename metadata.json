@@ -1,0 +1,6 @@
+{
+  "name": "TribeFit",
+  "description": "Monochrome fitness operating system for tracking workouts, nutrition, habits, and body metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
